@@ -2,7 +2,7 @@ Names
 Svetlin Stoyanov
 Natalia Dimova
 Viktor Kostadinov
-Atanas Ganev_
+Atanas Ganev
 Dimana Toteva
 Dilyana Gerganska
 Valeri Argirov
@@ -14,3 +14,4 @@ Mariya Stancheva
 Katrin Grigorova
 Valeri Bogoslovov
 Alexander Krustev
+Atanas Beshovishki
